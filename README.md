@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer | Devops enthusiast
 ------------------------------------------------
 
-I love automating things!
+I'm a self taught developer and I love automating things!
 
 * 🌍  I'm based in Colombo, Sri lanka
 * ✉️  You can contact me at [kevin@nuclie.tech](mailto:kevin@nuclie.tech)
