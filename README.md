@@ -10,7 +10,7 @@ I'm a self taught developer and I love automating things!
 * ✉️  You can contact me at [kevin@nuclie.tech](mailto:kevin@nuclie.tech)
 * 🧠  I'm learning Docker | AWS | JavaScript | Python | Java and more....
 * 🤝  I'm open to collaborating on Any project that has natural language processing...
-* ⚡  I hate Apple IOS no offence steve, Linux is much better.
+
 
 ### Skills
 
