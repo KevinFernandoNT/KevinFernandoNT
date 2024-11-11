@@ -7,7 +7,7 @@ Full Stack Software Engineer | Devops enthusiast
 I'm a self taught developer and I love automating things!
 
 * 🌍  I'm based in Colombo, Sri lanka
-* ✉️  You can contact me at [kevin@nuclie.tech](mailto:kevin@nuclie.tech)
+* ✉️  You can contact me at [kevin@nuclie.tech](mailto:kevin@nuclei.tech)
 * 🧠  I'm learning Docker | AWS | JavaScript | Python | Java and more....
 * 🤝  I'm open to collaborating on Any project that has natural language processing...
 
